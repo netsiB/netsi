@@ -1,0 +1,9 @@
+ul#header li{display: inline-block;color: rgb(177, 27, 27);
+}
+ul#nav li{display: inline;}
+#titl{color: rgb(136, 90, 90);}
+body{background-color:rgb(43, 58, 15);font-style: initial; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;background-image: -webkit-linear-gradient(3.png);}
+#size{height: 200px;width: 200px;}
+  #col{color: rgb(12, 12, 59);font-size: large;}
+  #center{text-align: center;padding: 40px;color: bisque;}
+  #nets{color: brown;background-color: chartreuse;text-align: center;}
